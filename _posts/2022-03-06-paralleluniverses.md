@@ -1,7 +1,7 @@
-    ---
-    layout: post
-    title: 平行宇宙理论
-    ---
+---
+layout: post
+title: 平行宇宙理论
+---
     
 平行宇宙理论
 =========
